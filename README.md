@@ -15,10 +15,10 @@ This project is to vizualize what kind of skill sets would be needed in the real
 
 ## Output A. Wordcloud with all words in job description
 
-![Alt Text](https://github.umn.edu/park2599/webscraping_Indeed_JD/blob/master/all_wrds_str.png)
+![Alt Text](https://github.com/brandon-park/Python_webscraping_Indeed_JD/blob/main/all_wrds_str.png)
 
 
 
 ## Output B. Wordcloud with skill sets in job description
 
-![Alt Text](https://github.umn.edu/park2599/webscraping_Indeed_JD/blob/master/all_skills_str.png)
+![Alt Text](https://github.com/brandon-park/Python_webscraping_Indeed_JD/blob/main/all_skills_str.png)
